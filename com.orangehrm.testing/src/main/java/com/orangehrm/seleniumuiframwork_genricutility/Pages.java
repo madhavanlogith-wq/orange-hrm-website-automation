@@ -4,12 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
 import com.orangehrm.testing.objectrepository.pages.*;
-import com.orangeHRM.selemiumuiframework_Object_repository.buzz.Post;
-import com.orangeHRM.selemiumuiframework_Object_repository.claim.My_Claims;
-import com.orangeHRM.selemiumuiframework_Object_repository.claim.Submit_Claim;
-import com.orangeHRM.selemiumuiframework_Object_repository.time.Attendance;
-import com.orangeHRM.selemiumuiframework_Object_repository.time.Project_Info;
-import com.orangeHRM.selemiumuiframework_Object_repository.time.Reports;
+
 
 public class Pages {
 
